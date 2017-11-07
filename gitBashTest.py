@@ -1,7 +1,7 @@
 def hello(arg):
-    print arg
+    print (arg)
 
 
-hello = "Say hello world!"
+hi = "Hello World!"
 
-hello(hello)
+hello(hi)
